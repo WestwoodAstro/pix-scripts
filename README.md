@@ -52,8 +52,7 @@ move the SII‑amount slider.
 
 ## Credits
 
-- **OSC Narrowband Extraction** © 2026 Loran Hughes, [WestwoodAstro.net](https://WestwoodAstro.net)
-- Incorporates ideas and code from the **Foraxx Palette Utility** © 2024 Paul Hancock.
+- **OSC Narrowband Extraction** © 2026 Loran Hughes, [WestwoodAstro.net](https://WestwoodAstro.net) (Incorporates ideas and code from the **Foraxx Palette Utility** © 2024 Paul Hancock).
 
 ## License
 
