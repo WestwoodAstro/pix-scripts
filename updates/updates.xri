@@ -4,16 +4,15 @@
       <p>Westwood Astro — PixInsight scripts by Loran Hughes.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.10">
-      <package fileName="westwoodastro-2026-06-10.zip"
-               sha1="929680016072b5a0ff3daed8a4c9cb4e2d971bfd"
+      <package fileName="westwoodastro-2026-06-20.zip"
+               sha1="d74d6596051ee12b5620ec4e0256c7cc35c092b6"
                type="script"
-               releaseDate="20260610">
+               releaseDate="20260620">
          <title>
-            Westwood Astro PixInsight Scripts 2026-06-10
+            Westwood Astro processing suite 2026-06-20
          </title>
          <description>
-            <h3>OSCNarrowbandExtraction: Release 1.0</h3>
-            <p>Interactive OSC narrowband extraction with an in-dialog real-time preview.</p>
+            <p>Westwood Astro — PixInsight scripts by Loran Hughes.</p>
          </description>
       </package>
    </platform>
